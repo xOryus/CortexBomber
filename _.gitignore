@@ -1,0 +1,14 @@
+# Python's cache folders
+__pycache__/*
+
+# Dolphin's per-directory settings.
+.directory
+
+# Ignore custom API config files.
+*.yaml
+
+# But allow the built-in one.
+!services.yaml
+
+# Don't forget the pre-commit config file.
+!.pre-commit-config.yaml
