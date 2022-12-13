@@ -1,8 +1,7 @@
 # CortexBomber - SMS Full
 
 
-# Come here my dear colleague, I'll teach you
-# how to use this kludge..
+# Come here my dear colleague, I'll teach you how to use this kludge..
 
 ## Features
 - Lots of integrated SMS APIs, and support for custom API configuration!
