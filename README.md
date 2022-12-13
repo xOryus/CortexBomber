@@ -24,7 +24,7 @@ NOTE: Windows not supported as some of `httpx`'s `http2` libraries can't be inst
 pkg install git python -y
 
 # Clone this repo
-git clone (SOON - EM BREVE)
+git clone https://github.com/byelordy/CortexBomber.git
 
 # Move into working directory.
 cd CortexBomber
@@ -44,7 +44,7 @@ apk add python3
 apk add py3-pip
 
 # Clone this repo
-git clone (SOON - EM BREVE)
+git clone https://github.com/byelordy/CortexBomber.git
 
 # Move into working directory.
 cd CortexBomber
@@ -60,7 +60,7 @@ pip3 install -r requirements.txt
 sudo apt install git python3 python3-pip
 
 # Clone this repo
-git clone (SOON - EM BREVE)
+git clone https://github.com/byelordy/CortexBomber.git
 
 # Move into working directory.
 cd CortexBomber
@@ -119,7 +119,7 @@ python3 bomber.py -p -N 500 -c 55 -T 30 -t 20 <TARGET>
 
 
 ## Licenses
-This project is licensed under the [GNU General Public License v3.0]
+This project is licensed under the [GNU General Public License v3.0][https://github.com/byelordy/CortexBomber.git]
 
 
 ## THANKS
